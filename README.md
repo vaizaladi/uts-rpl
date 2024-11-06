@@ -1,6 +1,6 @@
 #crud user stories
-#Create (Menambahkan lagu baru ke playlist)
-#Sebagai pengguna aplikasi, saya ingin menambahkan lagu baru ke playlist agar saya bisa mendengarkan lagu favorit saya kapan saja.
+Create (Menambahkan lagu baru ke playlist)
+Sebagai pengguna aplikasi, saya ingin menambahkan lagu baru ke playlist agar saya bisa mendengarkan lagu favorit saya kapan saja.
 
 Read (Melihat daftar lagu di playlist)
 Sebagai pengguna aplikasi, saya ingin melihat daftar lagu yang ada di playlist agar saya tahu lagu-lagu apa saja yang tersedia.
